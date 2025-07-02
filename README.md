@@ -2,6 +2,8 @@
 
 A simple interactive CLI tool to generate **rectangular Micro QR codes (rMQR)** with image output.
 
+![Example](example.png)
+
 ## Features
 
 - Interactive terminal prompts
